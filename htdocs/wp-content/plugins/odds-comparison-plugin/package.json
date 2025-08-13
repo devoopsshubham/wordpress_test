@@ -1,0 +1,14 @@
+{
+  "name": "odds-comparison-block",
+  "version": "1.0.0",
+  "description": "A Gutenberg block for displaying odds comparison.",
+  "main": "build/index.js",
+  "scripts": {
+  "build": "wp-scripts build gutenberg/src/index.js --output-path=gutenberg/build",
+  "start": "wp-scripts start gutenberg/src/index.js --output-path=gutenberg/build"
+},
+  "devDependencies": {
+    "@wordpress/scripts": "^27.0.0"
+  },
+  "dependencies": {}
+}

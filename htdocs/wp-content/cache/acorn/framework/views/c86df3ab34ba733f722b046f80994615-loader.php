@@ -1,0 +1,2 @@
+<?= \Roots\view('partials.comments', $data ?? get_defined_vars())->render(); ?>
+<?php /**PATH /var/www/wp4458.nexgenwebz.com/htdocs/wp-content/themes/sigma/resources/views/partials/comments.blade.php ENDPATH**/ ?>
